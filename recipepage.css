@@ -51,28 +51,6 @@ nav a:hover {
 	  }
 }
 
-/*.navbar {
-	background-color: #7FC7AF;
-	font-family: Georgia, serif;
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: row;
-	align-items: stretch;
-	justify-content: center;
-	padding: 20px;
-	margin: 20px;
-}
-
-.navbar a {
-	color: #FFF;
-	margin: 0 20px;
-	text-decoration: none;
-}
-	
-.navbar a:hover {
-	text-decoration: underline;
-}*/
-
 .flex-container {
 	background-color: #B4D4B7;
 	display: flex;
