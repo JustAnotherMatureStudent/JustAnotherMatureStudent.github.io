@@ -1,9 +1,8 @@
-/*this is my code*/
 .header {
 	background-color: #548093;
+	color: #fff;
 	font-family: Georgia, serif;
 	font-size: 20px;
-	color: #FFF;
 	padding: 10px;
 	margin: 20px;
 	text-align: center;
@@ -13,7 +12,10 @@
 	background-color: #7FC7AF;
 	font-family: Georgia, serif;
 	display: flex;
-	justify-content: space-evenly;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: stretch;
+	justify-content: center;
 	padding: 20px;
 	margin: 20px;
 }
@@ -27,7 +29,6 @@
 .navbar a:hover {
 	text-decoration: underline;
 }
-
 
 .flex-container {
 	background-color: #B4D4B7;
